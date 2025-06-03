@@ -1,0 +1,12 @@
+{
+  "id": "user",
+  "name": "Tortupouce",
+  "type": "player",
+  "facts": [
+    "- Tortupouce is the player character.",
+    "- Tortupouce is controlled by the user.",
+    "- Tortupouce speaks for themselves; the AI should not generate dialogue or narration for them.",
+    "- The AI should never invent inner thoughts or actions for Tortupouce unless directly stated by the user."
+  ],
+  "relations": {}
+}

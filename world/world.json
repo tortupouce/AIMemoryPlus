@@ -1,0 +1,21 @@
+{
+  "weather": "clear",
+  "events": [
+    "- Tortupouce is an adventurer.",
+    "- Old Joe is a farmer.",
+    "- There is a farmer present.",
+    "- Farmer Joe greets someone.",
+    "- Old Joe is introduced by Farmer Joe.",
+    "",
+    "- Protagonist is an adventurer",
+    "- Old Joe has never heard of Pierouge.",
+    "- Pierouge does not live near Old Joe.",
+    "- The narrator is looking for a man named Pierouge.",
+    "- Old Joe is not sure if Pierouge lives nearby.",
+    "- Farmer suggests asking other farmers for information about Pierouge.",
+    "- Old Joe gestures towards neighboring farms as potential sources of information.",
+    "- Someone named Jack is being discussed.",
+    "- There are relatives who might have heard of someone.",
+    "- Old Joe has neighbors who are farmers."
+  ]
+}

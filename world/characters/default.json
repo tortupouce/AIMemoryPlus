@@ -1,0 +1,14 @@
+{
+  "id": "default",
+  "facts": [
+    "- Tortupouce is an adventurer.",
+    "- There is a farmer present.",
+    "- Farmer Joe greets someone.",
+    "- Old Joe is introduced by Farmer Joe.",
+    "- Protagonist is an adventurer",
+    "- The narrator is looking for a man named Pierouge.",
+    "- Someone named Jack is being discussed.",
+    "- There are relatives who might have heard of someone."
+  ],
+  "relations": {}
+}
