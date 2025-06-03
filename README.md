@@ -1,4 +1,4 @@
-````markdown
+
 # Dynamic Memory AI (Fantasy setting but you can easely change that)
 
 ⚠️⚠️⚠️ It's Ai and I'm tired, so the saving of data works relatively well in the correct characters and use other ai instances to save the data related to them so runs slow but doesn't save full chats everywhere
